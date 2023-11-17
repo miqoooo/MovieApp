@@ -1,4 +1,4 @@
-![image](https://github.com/miqoooo/MovieApp/assets/151230026/47e99917-6b79-4658-8950-21446db37a31)# MovieApp
+![image]()# MovieApp
 
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
